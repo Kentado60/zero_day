@@ -1,1 +1,1 @@
-this file is mandatory in projects
+My first repository My first repository 
